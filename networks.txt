@@ -1,0 +1,8 @@
+https://www.geeksforgeeks.org/basics-computer-networking/
+https://www.geeksforgeeks.org/the-internet-and-the-web/
+https://www.geeksforgeeks.org/internet-and-web-programming/
+https://www.geeksforgeeks.org/transmission-modes-computer-networks/
+https://www.geeksforgeeks.org/difference-between-unicast-broadcast-and-multicast-in-computer-network/
+https://www.geeksforgeeks.org/introduction-to-basic-networking-terminology/
+https://www.geeksforgeeks.org/tcp-ip-model/
+https://www.geeksforgeeks.org/layers-of-osi-model/
